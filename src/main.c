@@ -1,6 +1,7 @@
 #include <config.h>
 #include <stdio.h>
 
+
 int main (void)
 {
   puts ("Hello Clear World!");
